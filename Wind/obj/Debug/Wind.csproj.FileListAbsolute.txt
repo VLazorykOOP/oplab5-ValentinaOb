@@ -9,3 +9,14 @@ D:\Chnu\Summer\Wind\obj\Debug\Wind.csproj.GenerateResource.cache
 D:\Chnu\Summer\Wind\obj\Debug\Wind.csproj.CoreCompileInputs.cache
 D:\Chnu\Summer\Wind\obj\Debug\Wind.exe
 D:\Chnu\Summer\Wind\obj\Debug\Wind.pdb
+D:\Chnu\Summer\oplab5-ValentinaOb\Wind\bin\Debug\Wind.exe.config
+D:\Chnu\Summer\oplab5-ValentinaOb\Wind\bin\Debug\Wind.exe
+D:\Chnu\Summer\oplab5-ValentinaOb\Wind\bin\Debug\Wind.pdb
+D:\Chnu\Summer\oplab5-ValentinaOb\Wind\obj\Debug\Wind.csproj.AssemblyReference.cache
+D:\Chnu\Summer\oplab5-ValentinaOb\Wind\obj\Debug\Wind.csproj.SuggestedBindingRedirects.cache
+D:\Chnu\Summer\oplab5-ValentinaOb\Wind\obj\Debug\Wind.Form1.resources
+D:\Chnu\Summer\oplab5-ValentinaOb\Wind\obj\Debug\Wind.Properties.Resources.resources
+D:\Chnu\Summer\oplab5-ValentinaOb\Wind\obj\Debug\Wind.csproj.GenerateResource.cache
+D:\Chnu\Summer\oplab5-ValentinaOb\Wind\obj\Debug\Wind.csproj.CoreCompileInputs.cache
+D:\Chnu\Summer\oplab5-ValentinaOb\Wind\obj\Debug\Wind.exe
+D:\Chnu\Summer\oplab5-ValentinaOb\Wind\obj\Debug\Wind.pdb
